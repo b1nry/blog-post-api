@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/home/boazhacks/.local/share/virtualenvs/blog-post-api-zAsZZO9A/bin/python",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
