@@ -11,6 +11,7 @@ djangorestframework = "*"
 markdown = "*"
 django-filter = "*"
 django = "*"
+graphene-django = "*"
 
 [requires]
 python_version = "3.7"
